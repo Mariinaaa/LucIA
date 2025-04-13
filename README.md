@@ -34,3 +34,5 @@ Interfaz Inspirada en: WhatsApp
 <h1>🎯 Objetivo del Proyecto </h1>
 El objetivo principal de LucIA es ofrecer una plataforma de comunicación rápida y sencilla, permitiendo a los usuarios gestionar sus contactos y conversar de manera fluida con la integración de LucIA chat conversacional.
 
+<h1>🎯 Como ejecutarlo </h1>
+python manage.py runserver
