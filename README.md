@@ -1,10 +1,9 @@
 <h1>📌 Descripción del Proyecto </h1>
-        
-LucIA - Lenguaje universal conversacional IA
 
-LucIA es una aplicación de mensajería en tiempo real diseñada para facilitar la comunicación entre usuarios a través de una interfaz amigable y fluida, similar a WhatsApp. La aplicación permite la gestión de contactos, el envío de mensajes y la integración con un asistente virtual llamado LucIA , que responde preguntas utilizando inteligencia artificial, se irá implementando funciones para detectar PELIGROS DEL USUARIO.
+LucIA (Lenguaje universal conversacional IA) es una innovadora aplicación de mensajería en tiempo real, diseñada para facilitar la comunicación entre usuarios mediante una interfaz amigable y fluida, similar a la de WhatsApp. Además de las funciones típicas de mensajería, LucIA integra un asistente virtual basado en inteligencia artificial que responde a preguntas y ofrece asistencia, todo mientras sigue mejorando con nuevas funcionalidades, como la capacidad de detectar peligros para los usuarios en tiempo real.
 
-🔹 Funcionalidades Principales
+
+<h1> Funcionalidades Principales </h1>
 
 ✅ Registro e inicio de sesión con número de teléfono.
 
@@ -18,7 +17,8 @@ LucIA es una aplicación de mensajería en tiempo real diseñada para facilitar 
 
 ✅ Soporte de archivos estáticos (imágenes, CSS, JS) para una mejor experiencia.
 
-🛠️ Tecnologías Utilizadas
+
+<h1>🛠️ Tecnologías Utilizadas </h1>
 Backend: Django (Python)
 
 Interfaz: HTML, CSS, JavaScript
@@ -29,10 +29,10 @@ Autenticación: Django Auth (con números de teléfono)
 
 IA: API de Google Gemini/OpenAI ChatGPT
 
-Interfaz Inspirada en: WhatsApp
+Interfaz inspirada en: WhatsApp
 
 <h1>🎯 Objetivo del Proyecto </h1>
-El objetivo principal de LucIA es ofrecer una plataforma de comunicación rápida y sencilla, permitiendo a los usuarios gestionar sus contactos y conversar de manera fluida con la integración de LucIA chat conversacional.
+El principal objetivo de LucIA es ofrecer una plataforma de comunicación rápida y sencilla, permitiendo a los usuarios gestionar sus contactos y mantener conversaciones fluidas con la ayuda de su asistente virtual, LucIA. Además, el proyecto planea integrar funciones avanzadas, como la detección de situaciones de riesgo para el usuario (emergencias médicas, violencia, etc.).
 
 <h1>🎯 Como ejecutarlo </h1>
 python manage.py runserver
